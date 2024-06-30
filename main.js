@@ -41,7 +41,7 @@ function myMenuFunction(){
   })
   
   function downloadFile() {
-  window.open("C:/Users/rasap/OneDrive/Desktop/myresume.pdf")
+  window.open("myresume.pdf")
   }
   
   /* ----- ## -- SCROLL REVEAL ANIMATION -- ## ----- */
